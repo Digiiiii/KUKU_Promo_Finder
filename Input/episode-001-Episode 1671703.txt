@@ -1,0 +1,394 @@
+EPISODE NUMBER: Episode 1
+EPISODE LOGLINE: Lady Juliana arrives at the cathedral in her late mother's bridal gown, only to suffer the ultimate betrayal when her fiancé Gerald abandons her at the altar for her cruel sister Clarissa with her family's full blessing.
+CONTINUITY NOTES: First episode of the series. Establishes Juliana's humiliation and abandonment by her betrothed, Gerald, and her noble family in favor of her sister, Clarissa.
+
+--- SCRIPT START ---
+
+SCENE 01
+Scene heading: INT. CATHEDRAL – DAY
+Scene start: 00:00.00
+Scene end: 02:18.00
+
+Actions and dialogue:
+
+**CAMERA:**
+Start: (00:00.00) | End: (00:04.80)
+Symmetrical framing on the heavy church doors as they slowly part, pushing in slightly as Juliana stands framed in the light, dressed in an elegant white silk gown.
+
+**ACTION:**
+Start: (00:01.00) | End: (00:04.80)
+Juliana pauses at the threshold, her expression bright with joyful anticipation, wearing her mother's vintage gown and an oval pendant necklace.
+
+**CAMERA:**
+Start: (00:04.80) | End: (00:06.80)
+High wide tracking shot following behind Juliana as she steps into the grand cathedral nave, facing the distant altar flanked by seated guests.
+
+**CAMERA:**
+Start: (00:06.80) | End: (00:09.80)
+Close-up on Juliana's face as her warm smile begins to falter into confusion.
+
+**ACTION:**
+Start: (00:07.20) | End: (00:09.80)
+Juliana's eyes widen slightly in bewilderment as she notices something amiss at the altar.
+
+**CAMERA:**
+Start: (00:09.80) | End: (00:11.00)
+Medium profile shot at the altar showing Gerald in his dark tailcoat holding the gloved hand of the Lady in Gold Gown, with Juliana visible walking down the distant aisle.
+
+**CAMERA:**
+Start: (00:11.00) | End: (00:13.20)
+Medium shot as Juliana stops midway down the aisle, confronted by a haughty matriarch in black velvet stepping into the foreground.
+
+**MATRIARCH (Cold, Commanding):**
+Start: (00:11.30) | End: (00:13.10)
+"You should turn around, Juliana."
+
+**LADY JULIANA (Confused, Breathless):**
+Start: (00:13.50) | End: (00:14.30)
+"Why?"
+
+**CAMERA:**
+Start: (00:14.30) | End: (00:17.80)
+Over-the-shoulder medium close-up past the Matriarch to Juliana, looking past her toward the altar.
+
+**LADY JULIANA (Desperate, Unbelieving):**
+Start: (00:15.50) | End: (00:17.50)
+"Gerald is waiting for me."
+
+**CAMERA:**
+Start: (00:17.80) | End: (00:20.50)
+Close-up on the Matriarch wearing an ornate tiara and sapphire jewelry, gazing down with merciless disdain.
+
+**MATRIARCH (Blunt, Unforgiving):**
+Start: (00:18.00) | End: (00:19.40)
+"Not anymore."
+
+**CAMERA:**
+Start: (00:20.50) | End: (00:23.60)
+Close-up on Juliana's stricken face as the weight of the words sinks in.
+
+**LADY JULIANA (Trembling, Pleading):**
+Start: (00:21.80) | End: (00:23.50)
+"What do you mean?"
+
+**CAMERA:**
+Start: (00:23.60) | End: (00:25.80)
+Medium shot of the Matriarch gesturing dismissively toward the altar.
+
+**MATRIARCH (Dismissive):**
+Start: (00:23.80) | End: (00:25.50)
+"Look for yourself."
+
+**ACTION:**
+Start: (00:25.60) | End: (00:29.80)
+Juliana walks forward past the Matriarch, her breath hitching as she approaches the altar steps, looking up in shock.
+
+**CAMERA:**
+Start: (00:25.80) | End: (00:29.80)
+Medium front tracking shot moving backward ahead of Juliana as she advances down the center aisle.
+
+**CAMERA:**
+Start: (00:29.80) | End: (00:32.80)
+Panning shot across the seated wedding guests whispering and casting judging glances from the wooden pews.
+
+**CAMERA:**
+Start: (00:32.80) | End: (00:33.70)
+Low-angle shot from behind Juliana looking up at Gerald and the Lady in Gold Gown standing proudly before the altar.
+
+**CAMERA:**
+Start: (00:33.70) | End: (00:35.30)
+Close-up on Juliana's trembling lips and shocked, tearful blue eyes.
+
+**LADY JULIANA (Shaken, Whispering):**
+Start: (00:33.80) | End: (00:35.00)
+"Gerald?"
+
+**LADY JULIANA (Heartbroken):**
+Start: (00:35.40) | End: (00:37.70)
+"Why are you holding her hand?"
+
+**CAMERA:**
+Start: (00:36.50) | End: (00:39.00)
+Close-up insert of Gerald's fingers firmly interlocked with the white-gloved hand of the Lady in Gold Gown.
+
+**CAMERA:**
+Start: (00:39.00) | End: (00:41.50)
+Close-up on the Lady in Gold Gown beaming with cruel triumph.
+
+**LADY IN GOLD GOWN (Gloating, Smug):**
+Start: (00:39.10) | End: (00:41.20)
+"Because he is marrying me."
+
+**CAMERA:**
+Start: (00:41.50) | End: (00:43.90)
+Close-up on Juliana as tears spill over her eyelashes.
+
+**LADY JULIANA (Gasping, Devastated):**
+Start: (00:41.70) | End: (00:43.10)
+"No..."
+
+**CAMERA:**
+Start: (00:43.90) | End: (00:46.80)
+Wide profile shot showing Juliana standing below the altar platform, looking up at Gerald and her sister.
+
+**CAMERA:**
+Start: (00:46.80) | End: (00:50.40)
+Close-up on Juliana clutching her chest, her sorrow turning into burning outrage.
+
+**LADY JULIANA (Outraged, Accusing):**
+Start: (00:46.80) | End: (00:50.00)
+"You knew this before I walked through those doors!"
+
+**CAMERA:**
+Start: (00:50.40) | End: (00:52.00)
+Medium shot of Gerald standing stoic and impassive next to the smug Lady in Gold Gown.
+
+**CAMERA:**
+Start: (00:52.00) | End: (00:54.60)
+Close-up on Juliana's hands desperately clenching fistfuls of her white dress fabric.
+
+**LADY JULIANA (Choking on Tears):**
+Start: (00:52.80) | End: (00:54.60)
+"You let me come here..."
+
+**CAMERA:**
+Start: (00:54.60) | End: (00:57.60)
+Close-up on Juliana's tear-streaked face as she shakes with grief.
+
+**LADY JULIANA (Crushed, Shaking):**
+Start: (00:54.70) | End: (00:56.90)
+"You let me dress in my mother's gown..."
+
+**LADY JULIANA (Crying Out):**
+Start: (00:57.00) | End: (01:00.00)
+"You let me believe I was walking toward my husband!"
+
+**CAMERA:**
+Start: (00:57.60) | End: (01:00.10)
+Medium shot on Gerald stepping forward, cold and indifferent, with the Lady in Gold Gown lingering in soft focus behind him.
+
+**CAMERA:**
+Start: (01:00.10) | End: (01:03.00)
+Tight close-up on Gerald's hardened profile as he glances down.
+
+**THE FORMER GROOM (Cold, Callous):**
+Start: (01:00.10) | End: (01:01.80)
+"I changed my mind."
+
+**CAMERA:**
+Start: (01:03.00) | End: (01:06.00)
+Extreme close-up on Juliana's furious, weeping face.
+
+**LADY JULIANA (Betrayed, Piercing):**
+Start: (01:03.40) | End: (01:05.60)
+"You swore you loved me!"
+
+**CAMERA:**
+Start: (01:06.00) | End: (01:08.80)
+Close-up on the Lady in Gold Gown smiling condescendingly.
+
+**LADY IN GOLD GOWN (Mocking):**
+Start: (01:06.50) | End: (01:08.80)
+"People change their minds, sister."
+
+**CAMERA:**
+Start: (01:08.80) | End: (01:12.40)
+Medium profile shot of the Lady in Gold Gown turning her head subtly toward Gerald with satisfied malice.
+
+**LADY JULIANA (Horrified):**
+Start: (01:09.10) | End: (01:10.40)
+"And you knew?"
+
+**LADY IN GOLD GOWN (Unapologetic, Cheerful):**
+Start: (01:10.60) | End: (01:12.10)
+"Of course I knew."
+
+**CAMERA:**
+Start: (01:12.40) | End: (01:14.60)
+Close-up on Juliana, stunned by the callous depth of the conspiracy.
+
+**LADY JULIANA (Trembling):**
+Start: (01:13.10) | End: (01:14.30)
+"How long?"
+
+**CAMERA:**
+Start: (01:14.60) | End: (01:19.00)
+Medium two-shot of the Lady in Gold Gown and Gerald looking together down at Juliana.
+
+**LADY IN GOLD GOWN (Cruel, Poised):**
+Start: (01:15.00) | End: (01:18.50)
+"Long enough to know he was never going to marry you."
+
+**ACTION:**
+Start: (01:19.00) | End: (01:21.00)
+Juliana turns abruptly toward the first row of pews, where her elderly father sits gripping an ornate brass cane.
+
+**CAMERA:**
+Start: (01:19.00) | End: (01:21.40)
+Close-up on the father's hand tightly gripping the gold curved handle of his walking cane.
+
+**LADY JULIANA (Desperate):**
+Start: (01:20.10) | End: (01:21.20)
+"Father..."
+
+**CAMERA:**
+Start: (01:21.40) | End: (01:23.70)
+Wide shot showing Juliana dropping to her knees beside her seated father, pleading with him.
+
+**LADY JULIANA (Begging):**
+Start: (01:21.40) | End: (01:23.60)
+"Tell them this is a mistake."
+
+**CAMERA:**
+Start: (01:23.70) | End: (01:26.00)
+Close-up on the father's weathered face, looking fixedly at the floor, refusing to meet her gaze.
+
+**CAMERA:**
+Start: (01:26.00) | End: (01:29.50)
+Close-up on Juliana looking up at him, tears streaming uncontrollably down her cheeks.
+
+**LADY JULIANA (Choking, Broken):**
+Start: (01:26.00) | End: (01:28.90)
+"Father... please look at me."
+
+**ACTION:**
+Start: (01:29.50) | End: (01:30.80)
+The father tightens his jaw and stony expression, refusing to offer a single word or look.
+
+**CAMERA:**
+Start: (01:29.50) | End: (01:30.80)
+Profile close-up of the father staring blankly forward.
+
+**CAMERA:**
+Start: (01:30.80) | End: (01:35.80)
+Low-angle shot looking up at the Matriarch commanding the space with regal severity.
+
+**MATRIARCH (Stern, Resolute):**
+Start: (01:30.90) | End: (01:31.90)
+"Enough!"
+
+**MATRIARCH (Disgusted):**
+Start: (01:32.10) | End: (01:35.50)
+"You have embarrassed this family long enough."
+
+**CAMERA:**
+Start: (01:35.80) | End: (01:38.60)
+Close-up on Juliana as she rises, stung by the utter betrayal.
+
+**LADY JULIANA (Incredulous):**
+Start: (01:36.20) | End: (01:38.20)
+"Embarrassed you?"
+
+**CAMERA:**
+Start: (01:38.60) | End: (01:42.50)
+Medium shot of the Matriarch gesturing toward Clarissa, who stands elegantly in gold.
+
+**MATRIARCH (Haughty):**
+Start: (01:38.80) | End: (01:41.50)
+"Clarissa knows how to carry herself."
+
+**MATRIARCH (Proud):**
+Start: (01:41.60) | End: (01:45.00)
+"She has beauty, connections, and a future worth protecting."
+
+**CAMERA:**
+Start: (01:42.50) | End: (01:45.30)
+Medium profile two-shot of the Matriarch confronting Juliana face to face.
+
+**CAMERA:**
+Start: (01:45.30) | End: (01:47.40)
+Close-up on Juliana, demanding answers in spite of her humiliation.
+
+**LADY JULIANA (Raw, Painful):**
+Start: (01:45.40) | End: (01:47.30)
+"And I am what?"
+
+**CAMERA:**
+Start: (01:47.40) | End: (01:50.00)
+Medium tracking shot showing the Lady in Gold Gown stepping past Juliana toward the center.
+
+**LADY IN GOLD GOWN (Viciously Calm):**
+Start: (01:47.50) | End: (01:50.80)
+"You are the daughter people tolerate because they have to."
+
+**CAMERA:**
+Start: (01:50.00) | End: (01:53.00)
+Close-up on Juliana absorbing the venomous words, her breathing shallow.
+
+**LADY IN GOLD GOWN (Gloating):**
+Start: (01:51.10) | End: (01:53.00)
+"I am the daughter they choose."
+
+**CAMERA:**
+Start: (01:53.00) | End: (01:55.20)
+Medium shot of the Lady in Gold Gown smiling warmly at Gerald beside the altar candles.
+
+**MATRIARCH (O.S.) (Firm):**
+Start: (01:53.30) | End: (01:55.70)
+"Clarissa is the jewel of this family."
+
+**CAMERA:**
+Start: (01:55.20) | End: (01:57.00)
+Close two-shot of the Matriarch and Juliana standing side by side in profile.
+
+**CAMERA:**
+Start: (01:57.00) | End: (01:59.50)
+Medium shot framing Juliana looking directly at Gerald, who towers over her coldly.
+
+**LADY JULIANA (Trembling, Dignified):**
+Start: (01:57.00) | End: (01:59.00)
+"So that is what I was worth to you?"
+
+**CAMERA:**
+Start: (01:59.50) | End: (02:02.50)
+Close-up on Gerald's sharp jawline as he looks down at her without an ounce of remorse.
+
+**THE FORMER GROOM (Scornful, Hard):**
+Start: (01:59.80) | End: (02:02.30)
+"You have nothing to offer me anymore."
+
+**CAMERA:**
+Start: (02:02.50) | End: (02:04.20)
+Extreme close-up on Juliana's eye as a single tear rolls down her cheek.
+
+**CAMERA:**
+Start: (02:04.20) | End: (02:08.50)
+Full shot tracking Gerald as he turns his back on Juliana and walks back toward Clarissa and the altar.
+
+**THE FORMER GROOM (Arrogant, Dismissive):**
+Start: (02:04.20) | End: (02:07.50)
+"I cannot marry a woman of such plainness and low value..."
+
+**CAMERA:**
+Start: (02:08.50) | End: (02:11.30)
+Close-up on Clarissa's radiant, conceited smile basking in Gerald's words.
+
+**THE FORMER GROOM (Reverent toward Clarissa):**
+Start: (02:08.50) | End: (02:11.20)
+"...when Clarissa is the true jewel of the county."
+
+**ACTION:**
+Start: (02:11.30) | End: (02:13.80)
+Juliana's hand clenches fiercely into the folds of her mother's silk bridal gown, knuckles whitening with suppressed fury.
+
+**CAMERA:**
+Start: (02:11.30) | End: (02:13.80)
+Tight insert on Juliana's white-knuckled hand clutching the gown fabric.
+
+**CAMERA:**
+Start: (02:13.80) | End: (02:17.00)
+Push-in close-up on Juliana's tearful face. Her trembling mouth straightens, her tear-filled blue eyes hardening from sheer devastation into cold, resolute defiance.
+
+**ACTION:**
+Start: (02:13.80) | End: (02:17.00)
+Juliana breathes through the agony, refusing to break down further in front of the congregation.
+
+**SOUND FX:**
+Start: (02:15.00) | End: (02:17.50)
+Solemn low-pitched string drone swells to an ominous cliffhanger peak.
+
+**CAMERA:**
+Start: (02:17.00) | End: (02:18.00)
+Cut to black.
+
+--- SCRIPT END ---
